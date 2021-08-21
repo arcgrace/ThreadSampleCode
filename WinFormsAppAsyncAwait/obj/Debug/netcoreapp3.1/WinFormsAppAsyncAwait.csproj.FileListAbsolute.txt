@@ -1,0 +1,15 @@
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\bin\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.exe
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\bin\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.deps.json
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\bin\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.runtimeconfig.json
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\bin\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.runtimeconfig.dev.json
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\bin\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.dll
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\bin\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.pdb
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\obj\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.csproj.AssemblyReference.cache
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\obj\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.Form1.resources
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\obj\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.csproj.GenerateResource.cache
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\obj\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\obj\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.AssemblyInfo.cs
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\obj\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\obj\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.dll
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\obj\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.pdb
+D:\dotNet\wndprod02\WinFormsAppAsyncAwait\obj\Debug\netcoreapp3.1\WinFormsAppAsyncAwait.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\obj\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.csproj.AssemblyReference.cache
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\obj\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\obj\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.AssemblyInfo.cs
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\obj\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\bin\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.exe
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\bin\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.deps.json
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\bin\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.runtimeconfig.json
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\bin\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.runtimeconfig.dev.json
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\bin\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.dll
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\bin\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.pdb
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\obj\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.dll
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\obj\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.pdb
+D:\dotNet\wndprod02\createManagedThreadAndWaitToReturn\obj\Debug\netcoreapp3.1\createManagedThreadAndWaitToReturn.genruntimeconfig.cache

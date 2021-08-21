@@ -1,0 +1,12 @@
+D:\dotNet\wndprod02\CommunicationBase\obj\Debug\netcoreapp3.1\CommunicationBase.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\CommunicationBase\obj\Debug\netcoreapp3.1\CommunicationBase.AssemblyInfo.cs
+D:\dotNet\wndprod02\CommunicationBase\obj\Debug\netcoreapp3.1\CommunicationBase.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\CommunicationBase\bin\Debug\netcoreapp3.1\CommunicationBase.exe
+D:\dotNet\wndprod02\CommunicationBase\bin\Debug\netcoreapp3.1\CommunicationBase.deps.json
+D:\dotNet\wndprod02\CommunicationBase\bin\Debug\netcoreapp3.1\CommunicationBase.runtimeconfig.json
+D:\dotNet\wndprod02\CommunicationBase\bin\Debug\netcoreapp3.1\CommunicationBase.runtimeconfig.dev.json
+D:\dotNet\wndprod02\CommunicationBase\bin\Debug\netcoreapp3.1\CommunicationBase.dll
+D:\dotNet\wndprod02\CommunicationBase\bin\Debug\netcoreapp3.1\CommunicationBase.pdb
+D:\dotNet\wndprod02\CommunicationBase\obj\Debug\netcoreapp3.1\CommunicationBase.dll
+D:\dotNet\wndprod02\CommunicationBase\obj\Debug\netcoreapp3.1\CommunicationBase.pdb
+D:\dotNet\wndprod02\CommunicationBase\obj\Debug\netcoreapp3.1\CommunicationBase.genruntimeconfig.cache

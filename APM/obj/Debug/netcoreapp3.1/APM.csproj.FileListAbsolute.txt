@@ -1,0 +1,13 @@
+D:\dotNet\wndprod02\APM\bin\Debug\netcoreapp3.1\APM.exe
+D:\dotNet\wndprod02\APM\bin\Debug\netcoreapp3.1\APM.deps.json
+D:\dotNet\wndprod02\APM\bin\Debug\netcoreapp3.1\APM.runtimeconfig.json
+D:\dotNet\wndprod02\APM\bin\Debug\netcoreapp3.1\APM.runtimeconfig.dev.json
+D:\dotNet\wndprod02\APM\bin\Debug\netcoreapp3.1\APM.dll
+D:\dotNet\wndprod02\APM\bin\Debug\netcoreapp3.1\APM.pdb
+D:\dotNet\wndprod02\APM\obj\Debug\netcoreapp3.1\APM.csproj.AssemblyReference.cache
+D:\dotNet\wndprod02\APM\obj\Debug\netcoreapp3.1\APM.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\APM\obj\Debug\netcoreapp3.1\APM.AssemblyInfo.cs
+D:\dotNet\wndprod02\APM\obj\Debug\netcoreapp3.1\APM.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\APM\obj\Debug\netcoreapp3.1\APM.dll
+D:\dotNet\wndprod02\APM\obj\Debug\netcoreapp3.1\APM.pdb
+D:\dotNet\wndprod02\APM\obj\Debug\netcoreapp3.1\APM.genruntimeconfig.cache

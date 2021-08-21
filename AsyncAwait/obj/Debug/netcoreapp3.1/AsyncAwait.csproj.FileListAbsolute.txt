@@ -1,0 +1,13 @@
+D:\dotNet\wndprod02\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.exe
+D:\dotNet\wndprod02\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.deps.json
+D:\dotNet\wndprod02\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.json
+D:\dotNet\wndprod02\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.dev.json
+D:\dotNet\wndprod02\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.dll
+D:\dotNet\wndprod02\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.pdb
+D:\dotNet\wndprod02\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csproj.AssemblyReference.cache
+D:\dotNet\wndprod02\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfo.cs
+D:\dotNet\wndprod02\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.dll
+D:\dotNet\wndprod02\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.pdb
+D:\dotNet\wndprod02\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.genruntimeconfig.cache

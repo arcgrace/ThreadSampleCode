@@ -1,0 +1,13 @@
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\asyncThread.exe
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\asyncThread.deps.json
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\asyncThread.runtimeconfig.json
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\asyncThread.runtimeconfig.dev.json
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\asyncThread.dll
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\asyncThread.pdb
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\asyncThread.csproj.AssemblyReference.cache
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\asyncThread.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\asyncThread.AssemblyInfo.cs
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\asyncThread.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\asyncThread.dll
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\asyncThread.pdb
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\asyncThread.genruntimeconfig.cache

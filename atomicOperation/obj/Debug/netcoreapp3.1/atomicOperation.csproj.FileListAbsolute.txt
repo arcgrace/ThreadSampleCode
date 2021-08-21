@@ -1,0 +1,12 @@
+D:\dotNet\wndprod02\atomicOperation\bin\Debug\netcoreapp3.1\atomicOperation.exe
+D:\dotNet\wndprod02\atomicOperation\bin\Debug\netcoreapp3.1\atomicOperation.deps.json
+D:\dotNet\wndprod02\atomicOperation\bin\Debug\netcoreapp3.1\atomicOperation.runtimeconfig.json
+D:\dotNet\wndprod02\atomicOperation\bin\Debug\netcoreapp3.1\atomicOperation.runtimeconfig.dev.json
+D:\dotNet\wndprod02\atomicOperation\bin\Debug\netcoreapp3.1\atomicOperation.dll
+D:\dotNet\wndprod02\atomicOperation\bin\Debug\netcoreapp3.1\atomicOperation.pdb
+D:\dotNet\wndprod02\atomicOperation\obj\Debug\netcoreapp3.1\atomicOperation.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\atomicOperation\obj\Debug\netcoreapp3.1\atomicOperation.AssemblyInfo.cs
+D:\dotNet\wndprod02\atomicOperation\obj\Debug\netcoreapp3.1\atomicOperation.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\atomicOperation\obj\Debug\netcoreapp3.1\atomicOperation.dll
+D:\dotNet\wndprod02\atomicOperation\obj\Debug\netcoreapp3.1\atomicOperation.pdb
+D:\dotNet\wndprod02\atomicOperation\obj\Debug\netcoreapp3.1\atomicOperation.genruntimeconfig.cache

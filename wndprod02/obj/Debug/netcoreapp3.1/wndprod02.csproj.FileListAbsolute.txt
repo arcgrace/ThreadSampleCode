@@ -1,0 +1,15 @@
+D:\dotNet\wndprod02\wndprod02\bin\Debug\netcoreapp3.1\wndprod02.exe
+D:\dotNet\wndprod02\wndprod02\bin\Debug\netcoreapp3.1\wndprod02.deps.json
+D:\dotNet\wndprod02\wndprod02\bin\Debug\netcoreapp3.1\wndprod02.runtimeconfig.json
+D:\dotNet\wndprod02\wndprod02\bin\Debug\netcoreapp3.1\wndprod02.runtimeconfig.dev.json
+D:\dotNet\wndprod02\wndprod02\bin\Debug\netcoreapp3.1\wndprod02.dll
+D:\dotNet\wndprod02\wndprod02\bin\Debug\netcoreapp3.1\wndprod02.pdb
+D:\dotNet\wndprod02\wndprod02\obj\Debug\netcoreapp3.1\wndprod02.csproj.AssemblyReference.cache
+D:\dotNet\wndprod02\wndprod02\obj\Debug\netcoreapp3.1\wndprod02.Form1.resources
+D:\dotNet\wndprod02\wndprod02\obj\Debug\netcoreapp3.1\wndprod02.csproj.GenerateResource.cache
+D:\dotNet\wndprod02\wndprod02\obj\Debug\netcoreapp3.1\wndprod02.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\wndprod02\obj\Debug\netcoreapp3.1\wndprod02.AssemblyInfo.cs
+D:\dotNet\wndprod02\wndprod02\obj\Debug\netcoreapp3.1\wndprod02.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\wndprod02\obj\Debug\netcoreapp3.1\wndprod02.dll
+D:\dotNet\wndprod02\wndprod02\obj\Debug\netcoreapp3.1\wndprod02.pdb
+D:\dotNet\wndprod02\wndprod02\obj\Debug\netcoreapp3.1\wndprod02.genruntimeconfig.cache

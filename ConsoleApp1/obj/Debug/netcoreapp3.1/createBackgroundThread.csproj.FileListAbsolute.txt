@@ -1,0 +1,13 @@
+D:\dotNet\wndprod02\ConsoleApp1\bin\Debug\netcoreapp3.1\createBackgroundThread.exe
+D:\dotNet\wndprod02\ConsoleApp1\bin\Debug\netcoreapp3.1\createBackgroundThread.deps.json
+D:\dotNet\wndprod02\ConsoleApp1\bin\Debug\netcoreapp3.1\createBackgroundThread.runtimeconfig.json
+D:\dotNet\wndprod02\ConsoleApp1\bin\Debug\netcoreapp3.1\createBackgroundThread.runtimeconfig.dev.json
+D:\dotNet\wndprod02\ConsoleApp1\bin\Debug\netcoreapp3.1\createBackgroundThread.dll
+D:\dotNet\wndprod02\ConsoleApp1\bin\Debug\netcoreapp3.1\createBackgroundThread.pdb
+D:\dotNet\wndprod02\ConsoleApp1\obj\Debug\netcoreapp3.1\createBackgroundThread.csproj.AssemblyReference.cache
+D:\dotNet\wndprod02\ConsoleApp1\obj\Debug\netcoreapp3.1\createBackgroundThread.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\ConsoleApp1\obj\Debug\netcoreapp3.1\createBackgroundThread.AssemblyInfo.cs
+D:\dotNet\wndprod02\ConsoleApp1\obj\Debug\netcoreapp3.1\createBackgroundThread.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\ConsoleApp1\obj\Debug\netcoreapp3.1\createBackgroundThread.dll
+D:\dotNet\wndprod02\ConsoleApp1\obj\Debug\netcoreapp3.1\createBackgroundThread.pdb
+D:\dotNet\wndprod02\ConsoleApp1\obj\Debug\netcoreapp3.1\createBackgroundThread.genruntimeconfig.cache

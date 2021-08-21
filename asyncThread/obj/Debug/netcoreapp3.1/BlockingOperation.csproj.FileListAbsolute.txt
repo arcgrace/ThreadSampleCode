@@ -1,0 +1,13 @@
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\BlockingOperation.exe
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\BlockingOperation.deps.json
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\BlockingOperation.runtimeconfig.json
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\BlockingOperation.runtimeconfig.dev.json
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\BlockingOperation.dll
+D:\dotNet\wndprod02\asyncThread\bin\Debug\netcoreapp3.1\BlockingOperation.pdb
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\BlockingOperation.csproj.AssemblyReference.cache
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\BlockingOperation.AssemblyInfoInputs.cache
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\BlockingOperation.AssemblyInfo.cs
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\BlockingOperation.csproj.CoreCompileInputs.cache
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\BlockingOperation.dll
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\BlockingOperation.pdb
+D:\dotNet\wndprod02\asyncThread\obj\Debug\netcoreapp3.1\BlockingOperation.genruntimeconfig.cache
